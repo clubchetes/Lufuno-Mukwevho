@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9333EA&height=220&section=header&text=CLUB%20CHETES&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9333EA&height=220&section=header&text=LUFUNO%20MUKWEVHO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Software+Development+Enthusiast;C%23+%7C+ASP.NET+MVC+%7C+SQL+Server;Building+solutions+through+code." alt="Typing SVG" />
@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=LufunoMukwevo&label=PROFILE+VIEWS&color=9333EA&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=clubchetes&label=PROFILE+VIEWS&color=9333EA&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -148,4 +148,3 @@ A hospital management system developed to support healthcare operations and impr
 </div>
 
 <!-- ================= END OF PROFILE README ================= -->
-
