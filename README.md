@@ -1,47 +1,56 @@
-&#x20;\<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=venom&height=250&color=0:090014,25:251047,55:4C1D95,100:9333EA&text=LUFUNO%20MUKWEVHO&fontSize=54&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&stroke=A78BFA&strokeWidth=2](https://capsule-render.vercel.app/api?type=venom\&height=250\&color=0:090014,25:251047,55:4C1D95,100:9333EA\&text=LUFUNO%20MUKWEVHO\&fontSize=54\&fontColor=FFFFFF\&fontAlignY=45\&animation=fadeIn\&stroke=A78BFA\&strokeWidth=2)" width="100%" alt="Lufuno Mukwevho"/>
+<!-- ================= LUfUNO MUKWEVHO | DEVELOPER PORTFOLIO ================= -->
 
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPER;SOFTWARE+DEVELOPMENT;C%23+%7C+PYTHON+%7C+REACT;ASP.NET+MVC+%7C+SQL+SERVER;TURNING+IDEAS+INTO+SOFTWARE+SOLUTIONS](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&duration=3000\&pause=1000\&color=C4B5FD\&center=true\&vCenter=true\&width=700\&lines=SOFTWARE+DEVELOPER;SOFTWARE+DEVELOPMENT;C%23+%7C+PYTHON+%7C+REACT;ASP.NET+MVC+%7C+SQL+SERVER;TURNING+IDEAS+INTO+SOFTWARE+SOLUTIONS)" alt="Introduction"/>
+<div align="center">
 
-\<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080611,40:4B0082,100:9333EA&height=220&section=header&text=LUFUNO%20MUKWEVHO&fontSize=43&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descAlignY=58&descSize=13&animation=fadeIn" width="100%"/>
 
-\<a href="[https://github.com/clubchetes](https://github.com/clubchetes)">
-\<img src="[https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
-\<img src="[https://komarev.com/ghpvc/?username=clubchetes&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=clubchetes\&style=for-the-badge\&color=7C3AED\&label=PROFILE+VIEWS)"/>
-\<img src="[https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-6D28D9?style=for-the-badge](https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-6D28D9?style=for-the-badge)"/>
+<br>
 
-\</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Software+Development+Graduate;Aspiring+Software+Developer;C%23+%7C+ASP.NET+MVC+%7C+SQL+Server;AWS+%7C+Cisco+%7C+Cybersecurity;Open+to+Professional+Opportunities" alt="Professional introduction"/>
+
+<br><br>
+
+<a href="https://github.com/clubchetes">
+<img src="https://komarev.com/ghpvc/?username=clubchetes&label=PROFILE+VIEWS&color=9333EA&style=for-the-badge" alt="Profile views"/>
+</a>
+
+<a href="https://github.com/clubchetes?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## PROFESSIONAL PROFILE
+## ABOUT ME
 
-I am **Lufuno Mukwevho**, an Information Technology graduate specialising in Software Development from Nelson Mandela University, Class of 2026.
+Hello! I'm **Lufuno Mukwevho**, an Information Technology graduate specialising in Software Development from **Nelson Mandela University**.
 
-I have a strong interest in software engineering, application development and problem-solving. I enjoy developing practical applications, working with databases and applying software development principles to create solutions that address real-world challenges.
+I am a motivated Software Development graduate with a strong foundation in programming, application development, database management and system design.
 
-**Education and Background**
+Through academic projects and practical development, I have gained experience designing and building applications that address real-world problems.
 
-| Category       | Details                                                  |
-| -------------- | -------------------------------------------------------- |
-| Qualification  | Diploma in Information Technology (Software Development) |
-| Institution    | Nelson Mandela University                                |
-| Graduation     | Class of 2026                                            |
-| Specialisation | Software Development                                     |
-| Career Focus   | Software Engineering and Application Development         |
+I am interested in software engineering, web application development, cloud technologies and cybersecurity. I continuously seek opportunities to strengthen my technical knowledge and contribute to meaningful technology solutions.
 
-**Career Opportunities**
+**Education:** Diploma in Information Technology (Software Development)  
+**Institution:** Nelson Mandela University  
+**Graduation:** Class of 2026
 
-I am currently open to:
+---
+
+## PROFESSIONAL AVAILABILITY
+
+I am actively seeking opportunities to begin and develop my professional career in the technology industry.
 
 - Software Development Internships
-- Junior Software Developer Positions
-- Graduate Development Programmes
+- IT Internships
+- Graduate Programmes
 - Software Development Learnerships
+- Junior Software Developer Positions
+- Entry-Level IT and Technology Opportunities
 
-I am eager to gain professional experience, contribute to development teams, learn from experienced professionals and continuously improve my technical capabilities.
+I am open to opportunities where I can apply my knowledge, gain practical industry experience, collaborate with professionals and contribute to organisational goals.
 
 ---
 
@@ -49,126 +58,147 @@ I am eager to gain professional experience, contribute to development teams, lea
 
 ### Programming Languages
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=cs,python,js](https://skillicons.dev/icons?i=cs,python,js)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Frontend Development
+### Web Development
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=html,css,js,react](https://skillicons.dev/icons?i=html,css,js,react)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
 
-### Backend Development and Frameworks
+### Databases
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=dotnet,python](https://skillicons.dev/icons?i=dotnet,python)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
 
-\<p>
-\<img src="[https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/ENTITY_FRAMEWORK-68217A?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/ENTITY_FRAMEWORK-68217A?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
-\</p>
+### Cloud, Networking & Cybersecurity
 
-### Databases and Development Tools
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=sqlserver,visualstudio,git,github](https://skillicons.dev/icons?i=sqlserver,visualstudio,git,github)"/>
-\</p>
+### Development Tools
 
-### Software Development Concepts
-
-\<p>
-\<img src="[https://img.shields.io/badge/SDLC-6D28D9?style=for-the-badge](https://img.shields.io/badge/SDLC-6D28D9?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Object--Oriented%20Programming-512BD4?style=for-the-badge](https://img.shields.io/badge/Object--Oriented%20Programming-512BD4?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Database%20Design-7C3AED?style=for-the-badge](https://img.shields.io/badge/Database%20Design-7C3AED?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Software%20Testing-9333EA?style=for-the-badge](https://img.shields.io/badge/Software%20Testing-9333EA?style=for-the-badge)"/>
-\</p>
+<p>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## FEATURED PROJECT
+## CERTIFICATIONS
 
-### ElderlyCareHospital — Hospital Management System
+<div align="center">
 
-\<a href="[https://github.com/clubchetes/ElderlyCareHospital](https://github.com/clubchetes/ElderlyCareHospital)">
-\<img src="[https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+| Certification | Institution |
+|:---|:---|
+| Intro to Cloud Engineering (AWS) | Amazon Web Services (AWS) |
+| Introduction to Cybersecurity | Cisco Networking Academy |
 
-A hospital management system developed to support healthcare operations, streamline administrative processes and improve the management of hospital services.
+</div>
 
-**Technology Stack**
+**Professional development areas:**
 
-- C#
-- ASP.NET MVC
-- Entity Framework
-- Microsoft SQL Server
-- HTML, CSS and JavaScript
+- Cloud computing fundamentals
+- Cybersecurity awareness
+- Networking fundamentals
+- Information technology
 
-**Core Features**
+---
 
-- Administrator dashboard and management.
+## FEATURED PROJECTS
+
+### 01. ElderlyCareHospital Management System
+
+**Technology:** C#, ASP.NET MVC, Entity Framework, SQL Server, HTML, CSS and JavaScript.
+
+A hospital management application developed to support healthcare operations through a role-based system.
+
+**Key functionality includes:**
+
+- Administrator dashboard and system management.
 - Patient management.
 - Doctor and nurse management.
 - Medication administration.
 - Family member registration.
-- Role-based authentication and access control.
+- Role-based authentication and authorisation.
 - Hospital operational management.
+- Database-driven functionality.
+
+<div align="left">
+
+<a href="https://github.com/clubchetes/ElderlyCareHospital">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## GITHUB PERFORMANCE
+## EDUCATION
 
-\<div align="center">
+**Nelson Mandela University**
 
-\<img width="100%" src="[https://github-readme-stats.vercel.app/api?username=clubchetes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=clubchetes\&show_icons=true\&theme=midnight-purple\&hide_border=true\&count_private=true\&include_all_commits=true)" alt="GitHub statistics"/>
-
-\<img width="100%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=clubchetes&layout=compact&theme=midnight-purple&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=clubchetes\&layout=compact\&theme=midnight-purple\&hide_border=true)" alt="Programming languages"/>
-
-\<br/>
-
-\<img width="100%" src="[https://streak-stats.demolab.com?user=clubchetes&theme=midnight-purple&hide_border=true](https://streak-stats.demolab.com?user=clubchetes\&theme=midnight-purple\&hide_border=true)" alt="GitHub contribution streak"/>
-
-\</div>
+Diploma in Information Technology  
+Specialisation: Software Development  
+Class of 2026 Graduate
 
 ---
 
-## CONTRIBUTION ACTIVITY
+## GITHUB ACTIVITY
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=clubchetes&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=e9d5ff&area=true&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY](https://github-readme-activity-graph.vercel.app/graph?username=clubchetes\&bg_color=0d1117\&color=c4b5fd\&line=7c3aed\&point=e9d5ff\&area=true\&hide_border=true\&custom_title=DEVELOPMENT%20ACTIVITY)" width="100%" alt="Contribution activity"/>
+<img src="https://github-readme-stats.vercel.app/api?username=clubchetes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165" alt="GitHub statistics"/>
 
-\</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clubchetes&layout=compact&theme=midnight-purple&hide_border=true" height="165" alt="Most used languages"/>
 
----
+<br><br>
 
-## PROFESSIONAL OBJECTIVES
+<img src="https://streak-stats.demolab.com?user=clubchetes&theme=midnight-purple&hide_border=true" width="70%" alt="GitHub contribution streak"/>
 
-- Develop reliable, scalable and user-focused software applications.
-- Strengthen my C#, Python and React development skills.
-- Improve database design and management capabilities.
-- Apply SDLC principles throughout software development.
-- Gain practical industry experience.
-- Collaborate with developers and technology professionals.
-- Continuously learn and adapt to emerging technologies.
+</div>
 
 ---
 
-## CONNECT WITH ME
+## LET'S CONNECT
 
-\<div align="center">
+I welcome professional connections, graduate opportunities, internships, learnerships and collaborations within the technology industry.
 
-\<a href="[https://github.com/clubchetes](https://github.com/clubchetes)">
-\<img src="[https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-\</a>
+<div align="center">
 
-\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
-\<img src="[https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
+<a href="https://github.com/clubchetes">
+<img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-\<br/>\<br/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:31205C,100:7C3AED&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:090014,40:31205C,100:7C3AED\&height=120\&section=footer)" width="100%" alt="Footer"/>
+<br><br>
 
-\</div>
+**Lufuno Mukwevho**  
+Software Development Graduate | Technology Enthusiast
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4B0082,100:080611&height=110&section=footer" width="100%"/>
+
+</div>
+
+<!-- ================= END OF PORTFOLIO ================= -->
