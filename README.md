@@ -1,38 +1,36 @@
-
-<!-- ================= PURPLE & BLACK DEVELOPER PORTFOLIO ================= -->
-
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:4B0082,100:9333EA&height=220&section=header&text=LUFUNO%20MUKWEVHO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=16&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:31205C,100:6D28D9&height=220&section=header&text=LUFUNO%20MUKWEVHO&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CLASS%20OF%202026%20GRADUATE&descSize=16&descAlignY=58" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Software+Development+Enthusiast;C%23+%7C+ASP.NET+MVC+%7C+SQL+Server;Building+solutions+through+code." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Software+Development+Graduate;Class+of+2026+%7C+Nelson+Mandela+University;C%23+%7C+ASP.NET+MVC+%7C+SQL+Server;Developing+Practical+Software+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=clubchetes&label=PROFILE+VIEWS&color=9333EA&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=clubchetes&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 ---
 
-##  ABOUT ME
+## ABOUT ME
 
-Hello! I'm **Lufuno Mukwevho**, an Information Technology enthusiast specialising in Software Development.
+Hello, I'm **Lufuno Mukwevho**, an Information Technology graduate specialising in Software Development and a **Class of 2026 graduate from Nelson Mandela University**.
 
-I enjoy designing, developing and building applications that solve real-world problems.
+I am passionate about designing, developing and building software applications that solve real-world problems. I have gained practical experience through academic projects, working with programming languages, databases and software development technologies.
 
-- 🎓 **Qualification:** Diploma in Information Technology (Software Development)
-- 🏛️ **Institution:** Nelson Mandela University
--  **Specialisation:** Software Development
--  **Current focus:** Building practical software applications.
--  **Learning:** Improving my software engineering and programming skills.
--  **Career goal:** To grow as a professional software developer and contribute to meaningful technology projects.
+- **Qualification:** Diploma in Information Technology (Software Development)
+- **Institution:** Nelson Mandela University
+- **Graduation:** Class of 2026
+- **Specialisation:** Software Development
+- **Technical Focus:** C#, ASP.NET MVC, SQL Server and Application Development
+- **Career Objective:** Seeking graduate and junior software development opportunities where I can contribute to meaningful projects, apply my technical knowledge and grow as a software professional.
 
 ---
 
-##  TECH STACK & TECHNOLOGIES
+## TECH STACK & TECHNOLOGIES
 
 ### Programming Languages
 
@@ -60,24 +58,24 @@ I enjoy designing, developing and building applications that solve real-world pr
 
 ---
 
-##  FEATURED PROJECTS
+## FEATURED PROJECTS
 
-###  ElderlyCareHospital – Hospital Management System
+### ElderlyCareHospital – Hospital Management System
 
 <a href="https://github.com/clubchetes/ElderlyCareHospital">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 A hospital management system developed to support healthcare operations and improve the management of hospital services.
 
-**Technologies used:**
+**Technologies Used:**
 - C#
 - ASP.NET MVC
 - Entity Framework
 - Microsoft SQL Server
 - HTML, CSS and JavaScript
 
-**Key features:**
+**Key Features:**
 - Administrator dashboard
 - Patient management
 - Doctor and nurse management
@@ -88,7 +86,7 @@ A hospital management system developed to support healthcare operations and impr
 
 ---
 
-##  GITHUB STATISTICS
+## GITHUB STATISTICS
 
 <div align="center">
 
@@ -104,28 +102,28 @@ A hospital management system developed to support healthcare operations and impr
 
 ---
 
-##  CONTRIBUTION ACTIVITY
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clubchetes&bg_color=0d1117&color=c084fc&line=9333ea&point=e9d5ff&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clubchetes&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=e9d5ff&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-##  MY GOALS
+## PROFESSIONAL DEVELOPMENT GOALS
 
-- Build professional software applications.
-- Improve my C# and ASP.NET development skills.
-- Develop stronger database management skills.
-- Explore new software development technologies.
+- Build reliable and scalable software applications.
+- Strengthen my C# and ASP.NET development skills.
+- Develop advanced database management skills.
+- Explore modern software development technologies.
 - Contribute to real-world software development projects.
-- Collaborate with other developers and technology professionals.
+- Collaborate with developers and technology professionals.
 
 ---
 
-##  LET'S CONNECT
+## LET'S CONNECT
 
 <div align="center">
 
@@ -141,10 +139,6 @@ A hospital management system developed to support healthcare operations and impr
 
 <div align="center">
 
-###  "Building the future, one line of code at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4B0082,100:090014&height=120&section=footer"/>
+**Building practical solutions through technology and software development.**
 
 </div>
-
-<!-- ================= END OF PROFILE README ================= -->
