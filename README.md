@@ -188,7 +188,7 @@ I welcome professional connections, graduate opportunities, internships, learner
 
 <br><br>
 
-Lufuno Mukwevho 
+Lufuno Mukwevho |
 Software Development Graduate | Technology Enthusiast
 
 </div>
