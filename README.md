@@ -1,4 +1,4 @@
-Hi, I'm Lufuno Mukwevho 
+Diploma in Information Technology (Software Development)
 
  Aspiring Software Developer | C# | Python | HTML | CSS | JAVASCRIPT | ASP.NET MVC | SQL Server 
 
@@ -7,6 +7,16 @@ Welcome to my GitHub profile!
 I am an aspiring software developer passionate about building practical applications, solving problems and learning new technologies.
 
 I enjoy developing systems that help businesses improve their daily operations.
+
+Education
+
+Diploma in Information Technology (Software Development)
+
+Qualification: Diploma in Information Technology (Software Development)
+
+Institution: Nelson Mandela Metropolitan University
+
+Status: Graduate
 
 Technical Skills
 
