@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 ABOUT ME
+##  ABOUT ME
 
 Hello! I'm **Lufuno Mukwevho**, an Information Technology enthusiast specialising in Software Development.
 
@@ -25,14 +25,14 @@ I enjoy designing, developing and building applications that solve real-world pr
 
 - 🎓 **Qualification:** Diploma in Information Technology (Software Development)
 - 🏛️ **Institution:** Nelson Mandela University
-- 💻 **Specialisation:** Software Development
-- 🚀 **Current focus:** Building practical software applications.
-- 🌱 **Learning:** Improving my software engineering and programming skills.
-- 🎯 **Career goal:** To grow as a professional software developer and contribute to meaningful technology projects.
+-  **Specialisation:** Software Development
+-  **Current focus:** Building practical software applications.
+-  **Learning:** Improving my software engineering and programming skills.
+-  **Career goal:** To grow as a professional software developer and contribute to meaningful technology projects.
 
 ---
 
-## 🛠️ TECH STACK & TECHNOLOGIES
+##  TECH STACK & TECHNOLOGIES
 
 ### Programming Languages
 
@@ -60,9 +60,9 @@ I enjoy designing, developing and building applications that solve real-world pr
 
 ---
 
-## 🚀 FEATURED PROJECTS
+##  FEATURED PROJECTS
 
-### 🏥 ElderlyCareHospital – Hospital Management System
+###  ElderlyCareHospital – Hospital Management System
 
 <a href="https://github.com/clubchetes/ElderlyCareHospital">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
@@ -88,7 +88,7 @@ A hospital management system developed to support healthcare operations and impr
 
 ---
 
-## 📊 GITHUB STATISTICS
+##  GITHUB STATISTICS
 
 <div align="center">
 
@@ -104,7 +104,7 @@ A hospital management system developed to support healthcare operations and impr
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+##  CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -114,7 +114,7 @@ A hospital management system developed to support healthcare operations and impr
 
 ---
 
-## 🎯 MY GOALS
+##  MY GOALS
 
 - Build professional software applications.
 - Improve my C# and ASP.NET development skills.
@@ -125,7 +125,7 @@ A hospital management system developed to support healthcare operations and impr
 
 ---
 
-## 🤝 LET'S CONNECT
+##  LET'S CONNECT
 
 <div align="center">
 
@@ -141,7 +141,7 @@ A hospital management system developed to support healthcare operations and impr
 
 <div align="center">
 
-### 💜 "Building the future, one line of code at a time."
+###  "Building the future, one line of code at a time."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,50:4B0082,100:090014&height=120&section=footer"/>
 
